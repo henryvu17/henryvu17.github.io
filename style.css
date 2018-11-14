@@ -26,7 +26,9 @@ body {
     background-color: #F5F5DC;
     color:black;
 }
-
+#resumeb ul li {
+    text-align: left;
+}
 h1,h4 {
     font-family: 'Amaranth', sans-serif;
 }
